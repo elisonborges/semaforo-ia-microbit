@@ -1,0 +1,4 @@
+Teste de integração GitHub - AnnA One
+Conta: elisonborges
+Status: teste de escrita
+Projeto: semaforo-ia-microbit
